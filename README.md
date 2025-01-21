@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hey there! 👋
+I'm William (or Billy), an aspiring Software Engineer and Full Stack Developer currently studying Computer Science at college.
 
-<!--
-**WilliamStanton/WilliamStanton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :toolbox: My Toolbox
+* Java, Spring Framework, C++, JavaScript, HTML/CSS, Thymeleaf, PostgreSQL
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamStanton&layout=compact&bg_color=161716&hide_border=true&text_color=EFEFEF)
 
-Here are some ideas to get you started:
+## ❓Currently Learning (on my own time)
+* Embedded Systems Development - C++
+* Vue.js - Javascript Framework
+* Kotlin - JVM Programming Language
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✏️ My Blog
+[Check out my personal blog](https://billystanton.com) for cool (mostly) tech focused posts powered by my custom coded CMS
