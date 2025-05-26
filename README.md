@@ -12,7 +12,6 @@ Currently, I am a Data Engineer Intern at Veeam Software.
 
 ## ❓Currently Learning (on my own time)
 * Embedded Systems Development - C++
-* Flask
 * Pandas
 
 ## ✏️ My Blog
