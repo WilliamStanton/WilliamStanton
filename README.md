@@ -1,5 +1,6 @@
 ## Hey there! 👋
-I'm William (or Billy), an aspiring Software Engineer and Full Stack Developer currently studying Computer Science at college.
+I'm William (or Billy), a college student and Full Stack Developer. 
+Currently, I am a Data Engineer Intern at Veeam Software.
 
 ## :toolbox: My Toolbox
 * Java / C++ / JavaScript / Python
