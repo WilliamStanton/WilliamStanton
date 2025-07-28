@@ -6,13 +6,12 @@ Currently, I am a Data Engineer Intern at Veeam Software.
 * Java / C++ / JavaScript / Python / SQL (pgSQL/SQLite)
 * Spring, Django, FastAPI, Flask
 * Thymeleaf, Django Templates, Jinja
-* HTML/CSS, Apache Kafka, SQLAlchemy, PANDAS
+* HTML/CSS, Apache Kafka, SQLAlchemy, Pandas
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamStanton&layout=compact&bg_color=161716&hide_border=true&text_color=EFEFEF)
 
 ## ❓Currently Learning (on my own time)
-* Embedded Systems Development - C++
-* Pandas
+* Machine Learning
 
 ## ✏️ My Blog
 [Check out my personal blog](https://billystanton.com) for cool (mostly) tech focused posts powered by my custom coded CMS
