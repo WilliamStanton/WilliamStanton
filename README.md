@@ -3,10 +3,10 @@ I'm William (or Billy), a college student and Full Stack Developer.
 Currently, I am a Data Engineer Intern at Veeam Software.
 
 ## :toolbox: My Toolbox
-* Java / C++ / JavaScript / Python
-* Spring Framework, Django Framework
-* Thymeleaf, Django Templates
-* HTML/CSS, Apache Kafka, SQL (pgSQL/SQLite)
+* Java / C++ / JavaScript / Python / SQL (pgSQL/SQLite)
+* Spring, Django, FastAPI, Flask
+* Thymeleaf, Django Templates, Jinja
+* HTML/CSS, Apache Kafka, SQLAlchemy, PANDAS
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamStanton&layout=compact&bg_color=161716&hide_border=true&text_color=EFEFEF)
 
