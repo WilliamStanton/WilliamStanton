@@ -6,7 +6,7 @@ My cool respositories are private!
 ## :toolbox: My Toolbox
 * Java / C++ / JavaScript / Python / SQL (pgSQL/SQLite)
 * Spring, Django, FastAPI, Flask
-* Thymeleaf, Django Templates, Jinja
+* React, Thymeleaf, Django Templates, Jinja
 * HTML/CSS, Apache Kafka, SQLAlchemy, Pandas
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamStanton&layout=compact&bg_color=161716&hide_border=true&text_color=EFEFEF)
